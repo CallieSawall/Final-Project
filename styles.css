@@ -123,4 +123,15 @@ footer {
     header nav ul {
         flex-direction: column;
     }
+    .video-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+iframe {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+ }
+}
 }
